@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhyve/static/css/main.d7eb22cd.chunk.css",
+    "main.js": "/bhyve/static/js/main.f90811ec.chunk.js",
+    "main.js.map": "/bhyve/static/js/main.f90811ec.chunk.js.map",
+    "runtime-main.js": "/bhyve/static/js/runtime-main.910b69e9.js",
+    "runtime-main.js.map": "/bhyve/static/js/runtime-main.910b69e9.js.map",
+    "static/js/2.a93f2f73.chunk.js": "/bhyve/static/js/2.a93f2f73.chunk.js",
+    "static/js/2.a93f2f73.chunk.js.map": "/bhyve/static/js/2.a93f2f73.chunk.js.map",
+    "static/js/3.790f8668.chunk.js": "/bhyve/static/js/3.790f8668.chunk.js",
+    "static/js/3.790f8668.chunk.js.map": "/bhyve/static/js/3.790f8668.chunk.js.map",
+    "index.html": "/bhyve/index.html",
+    "static/css/main.d7eb22cd.chunk.css.map": "/bhyve/static/css/main.d7eb22cd.chunk.css.map",
+    "static/js/2.a93f2f73.chunk.js.LICENSE.txt": "/bhyve/static/js/2.a93f2f73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.910b69e9.js",
+    "static/js/2.a93f2f73.chunk.js",
+    "static/css/main.d7eb22cd.chunk.css",
+    "static/js/main.f90811ec.chunk.js"
+  ]
+}
